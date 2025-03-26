@@ -1,2 +1,3 @@
+Live event  - https://tours-and-travel-seven.vercel.app/
 # Explora me tours and Travel
-Learn how to create a fully responsive Tour &amp; Travel website design from scratch using HTML, CSS, and JavaScript!
+A place where clients easily get travel assistance from tours company. Its responsive btw. Check It out.
